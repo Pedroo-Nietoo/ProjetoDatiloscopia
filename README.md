@@ -1,38 +1,9 @@
 <div align="center">
   <h1> Análise de dados: Datiloscopia | <img align="center" height="60px" width="60px" src="https://user-images.githubusercontent.com/102625628/195837962-6e3123b1-323e-42ea-8339-ae82bf927667.gif"/></h1>
 
-  <br>
-   
-  > **Warning** <br>
-  <p> O projeto/código possui uma licença. Caso os cumprimentos<br> da mesma não sejam realizados ao pegar informações deste<br> repositório, medidas poderão ser tomadas.</p>
-  
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
  
-  <img src="https://user-images.githubusercontent.com/102625628/195837962-6e3123b1-323e-42ea-8339-ae82bf927667.gif"/>
-  
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  
-  <hr>
   <h3> IDE utilizada: </h2>
-  <img height="55px alt="google colab" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png"/>
+  <img height="55px alt="Google Colab" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png"/>
 
   <br>
   <br>
